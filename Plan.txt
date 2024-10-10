@@ -1,0 +1,5 @@
+Eternal Night Tool
+    [ ] Add Settings Dialog
+    [ ] Allow user to change MPQ root path via settings tool
+    [ ] Load/Store MPQ path in the system registry
+    [ ] If no value is set, try to detect
